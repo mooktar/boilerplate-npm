@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mohamadou Mouktar",
+	"description": "A projet to learn building somme simple and awesome apps with nodejs.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
